@@ -1,0 +1,10 @@
+PODS:
+  - MagicalRecord (2.2)
+
+DEPENDENCIES:
+  - MagicalRecord
+
+SPEC CHECKSUMS:
+  MagicalRecord: 5ae17b3006e73c868161febf7a590dec7d95ad13
+
+COCOAPODS: 0.29.0
